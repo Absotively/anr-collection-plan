@@ -1,4 +1,6 @@
-# Stage 9
+---
+title: Stage 9
+---
 
 ## Purchases
 

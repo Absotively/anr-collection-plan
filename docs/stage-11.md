@@ -1,4 +1,6 @@
-# Stage 11
+---
+title: Stage 11
+---
 
 ## Purchases
 

@@ -1,4 +1,6 @@
-# Stage 1
+---
+title: Stage 1
+---
 
 ## Purchases
 

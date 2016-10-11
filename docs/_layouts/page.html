@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+<title>{{ page.title }} - {{ site.title }}</title>
+<link rel="stylesheet" href="http://hackcss.com/hack.css">
+</head>
+<body class="hack">
+<div class="container grid">
+<div class="menu cell -3of12">
+<a class="menu-item{% if page.path == "index.md" %} active{% endif %}" href="index.html">
+Home
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "introduction.md" %} active{% endif %}" href="introduction.html">
+Introduction
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "summary-table.md" %} active{% endif %}" href="summary-table.html">
+Summary table
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-0.md" %} active{% endif %}" href="stage-0.html">
+Stage 0
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-1.md" %} active{% endif %}" href="stage-1.html">
+Stage 1
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-2.md" %} active{% endif %}" href="stage-2.html">
+Stage 2
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-3.md" %} active{% endif %}" href="stage-3.html">
+Stage 3
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-4.md" %} active{% endif %}" href="stage-4.html">
+Stage 4
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-5.md" %} active{% endif %}" href="stage-5.html">
+Stage 5
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-6.md" %} active{% endif %}" href="stage-6.html">
+Stage 6
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-7.md" %} active{% endif %}" href="stage-7.html">
+Stage 7
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-8.md" %} active{% endif %}" href="stage-8.html">
+Stage 8
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-9.md" %} active{% endif %}" href="stage-9.html">
+Stage 9
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-10.md" %} active{% endif %}" href="stage-10.html">
+Stage 10
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-11.md" %} active{% endif %}" href="stage-11.html">
+Stage 11
+<div class="pull-right">»</div>
+</a>
+<a class="menu-item{% if page.path == "stage-12.md" %} active{% endif %}" href="stage-12.html">
+Stage 12
+<div class="pull-right">»</div>
+</a>
+</div>
+<div class="cell -1of12"></div><!-- spacer because I can't be bothered to look up how this grid is supposed to work -->
+<div class="cell -8of12">
+<h1>{{ page.title }}</h1>
+{{ content }}
+</div>
+</div>
+</body>
+</html>

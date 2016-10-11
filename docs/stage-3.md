@@ -1,10 +1,12 @@
-# Stage 3
+---
+title: Stage 3
+---
 
 ## Purchases
 
 * What Lies Ahead
 * Cyber Exodus
-* Humanity’s Shadow
+* Humanity's Shadow
 
 ## Decks
 

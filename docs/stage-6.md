@@ -1,4 +1,6 @@
-# Stage 6
+---
+title: Stage 6
+---
 
 ## Purchases
 

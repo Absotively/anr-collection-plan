@@ -1,4 +1,6 @@
-# Stage 2
+---
+title: Stage 2
+---
 
 ## Purchases
 
@@ -12,6 +14,6 @@
 
 ## Notes
 
-You’ll have to proxy or borrow Plascrete Carapace.
+You'll have to proxy or borrow Plascrete Carapace.
 
-These decks are from [Run Last Click Episode 63: One Core Une Fois](http://runlastclick.blogspot.ca/2016/08/episode-63-one-core-une-fois.html). This episode of Run Last Click featured decks designed for limited collections. The description of the Corp deck starts at 11:02. The description of the Runner deck starts at 18:46. You may also want to listen to the episode’s introduction.
+These decks are from [Run Last Click Episode 63: One Core Une Fois](http://runlastclick.blogspot.ca/2016/08/episode-63-one-core-une-fois.html). This episode of Run Last Click featured decks designed for limited collections. The description of the Corp deck starts at 11:02. The description of the Runner deck starts at 18:46. You may also want to listen to the episode's introduction.
