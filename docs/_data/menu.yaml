@@ -1,0 +1,31 @@
+- page: index
+  label: Home
+- page: introduction
+  label: Introduction
+- page: stage-0
+  label: Stage 0
+- page: stage-1
+  label: Stage 1
+- page: stage-2
+  label: Stage 2
+- page: stage-3
+  label: Stage 3
+- page: stage-4
+  label: Stage 4
+- page: stage-5
+  label: Stage 5
+- page: stage-6
+  label: Stage 6
+- page: stage-7
+  label: Stage 7
+- page: stage-8
+  label: Stage 8
+- page: stage-9
+  label: Stage 9
+- page: stage-10
+  label: Stage 10
+- page: stage-11
+  label: Stage 11
+- page: stage-12
+  label: Stage 12
+
