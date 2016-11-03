@@ -2,6 +2,8 @@
   label: Home
 - page: introduction
   label: Introduction
+- page: summary-table
+  label: Summary Table
 - page: stage-0
   label: Stage 0
 - page: stage-1
