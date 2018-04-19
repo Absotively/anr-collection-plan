@@ -2,6 +2,9 @@
 title: Introduction
 permalink: introduction
 ---
+
+**This plan is very, very out of date. [The ChiLo Buying Guide is a much better source for up-to-date collection building advice.](https://boardgamegeek.com/filepage/155344/chilo-buying-guide)**
+
 This page is a collection of information about building a Netrunner collection and about this plan.
 
 ## Cost
